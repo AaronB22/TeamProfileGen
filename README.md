@@ -15,3 +15,7 @@
  
  If you want to move your HTML File to a different file, just move your HTML file to a folder of your choosen. As well as the copy style.css for the styles, and paste it in the same folder has your HTML.
  If you do copy/paste style.css, your page will still work, but it will be unstyled. If you wish to restyle, open the style.css with any text editor.
+
+![Demo](./demo/demo.gif)
+     *note if gif fails to play, you can acces it by going into demo folder. The file is called demo.gif* 
+  
