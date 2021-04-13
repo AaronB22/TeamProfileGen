@@ -1,0 +1,28 @@
+{
+  "name": "teamprofilegenerater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronB22/TeamProfileGen.git"
+  },
+  "author": "Aaron Bailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaronB22/TeamProfileGen/issues"
+  },
+  "homepage": "https://github.com/AaronB22/TeamProfileGen#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0",
+    "jQuery": "^1.7.4",
+    "jest": "^26.6.3"
+  }
+}
